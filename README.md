@@ -20,7 +20,5 @@ var p2 = new Person("Lily", 20)
 
 console.log(Person.prototype === p1.__proto__)
 // true
-
-// true
 ```
 
